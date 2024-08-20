@@ -1,4 +1,5 @@
-<h1>Hi, I'm Rama! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="(http://www.linkedin.com/in/rama-yakkala-8a10461b1)">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Rama! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="(http://www.linkedin.com/in/rama-yakkala-8a10461b1)">Data Science Student
+</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
