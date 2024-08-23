@@ -5,7 +5,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Website (React, HTML/CSS, JavaScript, Python)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>UNC Charlotte GWC Axe Hacks 2024 Hackathon Project</b>
   - [Built a web scraper for students to find their electronics by price by comparing two online bookstores.](https://github.com/ayishahriaz/axehacks)
