@@ -4,7 +4,6 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>UNC Charlotte GWC Axe Hacks 2024 Hackathon Project</b>
   - [Built a web scraper for students to find their electronics by price by comparing two online bookstores.](https://github.com/ayishahriaz/axehacks)
-- 
 
 
 <h2> 🤳 Connect with me:</h2>
