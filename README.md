@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rama! <br/>Programmer</a> and <a href="(http://www.linkedin.com/in/rama-yakkala-8a10461b1)">Data Science Student
+<h1>Hi, I'm Rama! <br/>Programmer</a> and <a href="(http://www.linkedin.com/in/rama-yakkala-8a10461b1)">Computer Science Student
 </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
