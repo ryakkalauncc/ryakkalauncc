@@ -2,6 +2,8 @@
 </a></h1>
 <h2>🎓 About Me</h2>
 <b>Hi! My name is Rama Yakkala and I am a senior at the University of North Carolina at Charlotte pursuing a Bachelors of Science in Computer Science! This past summer I completed a Software Engineering internship with TIAA specfically Nuveen Tech and Ops in Charlotte, North Carolina. During this time, I contributed to the design, maintenance, testing, and evaluation of software and systems critical to the company’s operations. As I progress through my education, extracurriculars, and career I will continue to post my projects and about my interests below!</b>
+<h2>📗 Data Mining Projects</h2>
+<h2>📈 Visual Analytics Projects</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>UNC Charlotte GWC Axe Hacks 2024 Hackathon Project</b>
   - [Built a web scraper for students to find their electronics by price by comparing two online bookstores.](https://github.com/ayishahriaz/axehacks)
