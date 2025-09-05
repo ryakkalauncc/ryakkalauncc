@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rama! <br/>Programmer</a> and <a href="(http://www.linkedin.com/in/rama-yakkala-8a10461b1)">Computer Science Student
 </a></h1>
 <h2>🎓 About Me</h2>
-<b>Hi! My name is Rama Yakkala and I am a senior at the University of North Carolina at Charlotte pursuing a Bachelors of Science in Computer Science! This past summer I completed a Software Engineering internship with TIAA specfically Nuveen Tech and Ops in Charlotte, North Carolina. During this time, I contributed to the design, maintenance, testing, and evaluation of software and systems critical to the company’s operations. As I progress through my education, extracurriculars, and career I will continue to post my projects and about my interests below!</b>
+<b>Hi! My name is Rama Yakkala and I am a senior at the University of North Carolina at Charlotte pursuing a Bachelors of Science in Computer Science! This past summer I completed a Software Engineering internship with TIAA specfically Nuveen Tech and Ops in Charlotte, North Carolina. During this time, I contributed to the design, maintenance, testing, and evaluation of software and systems critical to the company’s operations. As I progress through my education, extracurriculars, and career I will continue to post my projects and interests below!</b>
 <h2>📗 Data Mining Projects</h2>
 -<b>Project 1: Defining a Problem and Data Understanding: [](https://github.com/ryakkalauncc/3162project1)</b>
 
