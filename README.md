@@ -6,6 +6,7 @@
 -<b>Project 1: Defining a Problem and Data Understanding: [](https://github.com/ryakkalauncc/3162project1)</b>
 
 <h2>📈 Visual Analytics Projects</h2>
+-<b>Project 1: Visual Narratives with Code: [] ()</b>
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>UNC Charlotte GWC Axe Hacks 2024 Hackathon Project</b>
   - [Built a web scraper for students to find their electronics by price by comparing two online bookstores.](https://github.com/ayishahriaz/axehacks)
